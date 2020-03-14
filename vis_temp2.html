@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Vis Test</title>
+		<script type="text/javascript" src="vis/dist/vis.min.js"></script>
+		<link rel="stylesheet" href="vis/dist/vis.css">
+	</head>
+	<body>
+		<div id="mynetwork"></div>
+
+		<script type="text/javascript">
+			var nodes = [
+        {
+            "group": 1,
+            "id": 2,
+            "label": "410",
+            "title": "Acute myocardial infarction",
+            "value": 0.00361632
+        },
+        {
+            "group": 1,
+            "id": 13,
+            "label": "396",
+            "title": "Diseases of mitral and aortic valves",
+            "value": 2e-08
+        },
+        {
+            "group": 1,
+            "id": 25,
+            "label": "414",
+            "title": "Other forms of chronic ischemic heart disease",
+            "value": 0.000593498
+        },
+        {
+            "group": 0,
+            "id": 27,
+            "label": "415",
+            "title": "Acute pulmonary heart disease",
+            "value": 0.000558426
+        },
+        {
+            "group": 6,
+            "id": 44,
+            "label": "428",
+            "title": "Heart failure",
+            "value": 0.000447107
+        }
+			];
+
+			var edges = [
+        {
+            "from": 2,
+            "to": 2,
+            "value": 0.0262152
+        },
+        {
+            "from": 2,
+            "to": 13,
+            "value": 0.0189466
+        },
+        {
+            "from": 2,
+            "to": 25,
+            "value": 0.050091
+        },
+        {
+            "from": 2,
+            "to": 27,
+            "value": 0.022553
+        },
+        {
+            "from": 2,
+            "to": 44,
+            "value": 0.0198229
+        }
+			];
+
+			var container = document.getElementById('mynetwork');
+			var data = {
+				nodes: nodes,
+				edges: edges
+			};
+			var options = {
+				width: '1280px',
+				height: '720px',
+				nodes: {
+					shape: 'dot',
+					radiusMin: 10,
+					radiusMax: 35,
+					fontSize: 30 
+				},
+				edges: {
+					style: 'arrow',
+					widthMin: 1,
+					widthMax: 10
+				},
+				tooltip: {
+					delay: 100
+				}
+			};
+			var network = new vis.Network(container, data, options);
+		</script>
+	</body>
+</html>

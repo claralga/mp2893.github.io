@@ -1,0 +1,2011 @@
+{
+    "edges": [
+        {
+            "from": 0,
+            "to": 1,
+            "value": 0.0994858
+        },
+        {
+            "from": 25,
+            "to": 1,
+            "value": 0.021743
+        },
+        {
+            "from": 2,
+            "to": 2,
+            "value": 0.0530028
+        },
+        {
+            "from": 12,
+            "to": 2,
+            "value": 0.104802
+        },
+        {
+            "from": 25,
+            "to": 2,
+            "value": 0.0875378
+        },
+        {
+            "from": 90,
+            "to": 2,
+            "value": 0.0483026
+        },
+        {
+            "from": 1,
+            "to": 3,
+            "value": 0.0332103
+        },
+        {
+            "from": 3,
+            "to": 3,
+            "value": 0.136526
+        },
+        {
+            "from": 9,
+            "to": 3,
+            "value": 0.0577602
+        },
+        {
+            "from": 11,
+            "to": 3,
+            "value": 0.065471
+        },
+        {
+            "from": 12,
+            "to": 3,
+            "value": 0.0419799
+        },
+        {
+            "from": 14,
+            "to": 3,
+            "value": 0.037419
+        },
+        {
+            "from": 20,
+            "to": 3,
+            "value": 0.0303474
+        },
+        {
+            "from": 25,
+            "to": 3,
+            "value": 0.0182332
+        },
+        {
+            "from": 26,
+            "to": 3,
+            "value": 0.037607
+        },
+        {
+            "from": 29,
+            "to": 3,
+            "value": 0.0489779
+        },
+        {
+            "from": 73,
+            "to": 3,
+            "value": 0.0715439
+        },
+        {
+            "from": 89,
+            "to": 3,
+            "value": 0.059914
+        },
+        {
+            "from": 108,
+            "to": 3,
+            "value": 0.0780494
+        },
+        {
+            "from": 119,
+            "to": 3,
+            "value": 0.0786794
+        },
+        {
+            "from": 122,
+            "to": 3,
+            "value": 0.0963998
+        },
+        {
+            "from": 146,
+            "to": 3,
+            "value": 0.0661965
+        },
+        {
+            "from": 175,
+            "to": 3,
+            "value": 0.0640981
+        },
+        {
+            "from": 184,
+            "to": 3,
+            "value": 0.0678017
+        },
+        {
+            "from": 10,
+            "to": 4,
+            "value": 0.0392055
+        },
+        {
+            "from": 4,
+            "to": 5,
+            "value": 0.101622
+        },
+        {
+            "from": 69,
+            "to": 5,
+            "value": 0.0939999
+        },
+        {
+            "from": 9,
+            "to": 6,
+            "value": 0.0777086
+        },
+        {
+            "from": 87,
+            "to": 6,
+            "value": 0.0963016
+        },
+        {
+            "from": 8,
+            "to": 8,
+            "value": 0.0378083
+        },
+        {
+            "from": 12,
+            "to": 8,
+            "value": 0.0676327
+        },
+        {
+            "from": 55,
+            "to": 8,
+            "value": 0.094913
+        },
+        {
+            "from": 73,
+            "to": 8,
+            "value": 0.0495845
+        },
+        {
+            "from": 100,
+            "to": 8,
+            "value": 0.0802413
+        },
+        {
+            "from": 8,
+            "to": 9,
+            "value": 0.0579125
+        },
+        {
+            "from": 42,
+            "to": 9,
+            "value": 0.087737
+        },
+        {
+            "from": 62,
+            "to": 9,
+            "value": 0.0833112
+        },
+        {
+            "from": 92,
+            "to": 9,
+            "value": 0.0483185
+        },
+        {
+            "from": 150,
+            "to": 9,
+            "value": 0.0950776
+        },
+        {
+            "from": 10,
+            "to": 10,
+            "value": 0.135149
+        },
+        {
+            "from": 22,
+            "to": 10,
+            "value": 0.0569052
+        },
+        {
+            "from": 3,
+            "to": 11,
+            "value": 0.0393582
+        },
+        {
+            "from": 11,
+            "to": 11,
+            "value": 0.036545
+        },
+        {
+            "from": 20,
+            "to": 11,
+            "value": 0.0940555
+        },
+        {
+            "from": 26,
+            "to": 11,
+            "value": 0.0306851
+        },
+        {
+            "from": 139,
+            "to": 11,
+            "value": 0.0209323
+        },
+        {
+            "from": 179,
+            "to": 11,
+            "value": 0.0905215
+        },
+        {
+            "from": 12,
+            "to": 12,
+            "value": 0.11563
+        },
+        {
+            "from": 2,
+            "to": 13,
+            "value": 0.0250654
+        },
+        {
+            "from": 26,
+            "to": 13,
+            "value": 0.0293191
+        },
+        {
+            "from": 3,
+            "to": 14,
+            "value": 0.0188641
+        },
+        {
+            "from": 19,
+            "to": 14,
+            "value": 0.0910075
+        },
+        {
+            "from": 15,
+            "to": 15,
+            "value": 0.0799689
+        },
+        {
+            "from": 18,
+            "to": 18,
+            "value": 0.158797
+        },
+        {
+            "from": 20,
+            "to": 18,
+            "value": 0.0353332
+        },
+        {
+            "from": 33,
+            "to": 18,
+            "value": 0.056999
+        },
+        {
+            "from": 38,
+            "to": 18,
+            "value": 0.0875788
+        },
+        {
+            "from": 65,
+            "to": 18,
+            "value": 0.0901123
+        },
+        {
+            "from": 53,
+            "to": 19,
+            "value": 0.0852787
+        },
+        {
+            "from": 11,
+            "to": 20,
+            "value": 0.0545188
+        },
+        {
+            "from": 13,
+            "to": 20,
+            "value": 0.0722876
+        },
+        {
+            "from": 19,
+            "to": 20,
+            "value": 0.0946408
+        },
+        {
+            "from": 25,
+            "to": 20,
+            "value": 0.121056
+        },
+        {
+            "from": 99,
+            "to": 20,
+            "value": 0.0940852
+        },
+        {
+            "from": 13,
+            "to": 21,
+            "value": 0.0690694
+        },
+        {
+            "from": 1,
+            "to": 22,
+            "value": 0.0877064
+        },
+        {
+            "from": 18,
+            "to": 22,
+            "value": 0.0449679
+        },
+        {
+            "from": 22,
+            "to": 22,
+            "value": 0.0604539
+        },
+        {
+            "from": 122,
+            "to": 22,
+            "value": 0.0805714
+        },
+        {
+            "from": 2,
+            "to": 25,
+            "value": 0.104438
+        },
+        {
+            "from": 61,
+            "to": 25,
+            "value": 0.0702231
+        },
+        {
+            "from": 8,
+            "to": 26,
+            "value": 0.0589911
+        },
+        {
+            "from": 12,
+            "to": 26,
+            "value": 0.0684315
+        },
+        {
+            "from": 13,
+            "to": 26,
+            "value": 0.0496527
+        },
+        {
+            "from": 26,
+            "to": 26,
+            "value": 0.112775
+        },
+        {
+            "from": 32,
+            "to": 26,
+            "value": 0.0618116
+        },
+        {
+            "from": 41,
+            "to": 26,
+            "value": 0.0762349
+        },
+        {
+            "from": 44,
+            "to": 26,
+            "value": 0.08839
+        },
+        {
+            "from": 51,
+            "to": 26,
+            "value": 0.055959
+        },
+        {
+            "from": 58,
+            "to": 26,
+            "value": 0.0729917
+        },
+        {
+            "from": 64,
+            "to": 26,
+            "value": 0.0813494
+        },
+        {
+            "from": 89,
+            "to": 26,
+            "value": 0.0701105
+        },
+        {
+            "from": 99,
+            "to": 26,
+            "value": 0.0849726
+        },
+        {
+            "from": 159,
+            "to": 26,
+            "value": 0.0526746
+        },
+        {
+            "from": 2,
+            "to": 27,
+            "value": 0.0289768
+        },
+        {
+            "from": 25,
+            "to": 27,
+            "value": 0.0421436
+        },
+        {
+            "from": 54,
+            "to": 27,
+            "value": 0.094551
+        },
+        {
+            "from": 62,
+            "to": 27,
+            "value": 0.0841003
+        },
+        {
+            "from": 63,
+            "to": 27,
+            "value": 0.0795242
+        },
+        {
+            "from": 25,
+            "to": 28,
+            "value": 0.0419327
+        },
+        {
+            "from": 31,
+            "to": 31,
+            "value": 0.0374856
+        },
+        {
+            "from": 32,
+            "to": 32,
+            "value": 0.0793996
+        },
+        {
+            "from": 41,
+            "to": 32,
+            "value": 0.0564624
+        },
+        {
+            "from": 14,
+            "to": 33,
+            "value": 0.0844849
+        },
+        {
+            "from": 68,
+            "to": 34,
+            "value": 0.0223608
+        },
+        {
+            "from": 167,
+            "to": 34,
+            "value": 0.0228425
+        },
+        {
+            "from": 30,
+            "to": 36,
+            "value": 0.0261184
+        },
+        {
+            "from": 35,
+            "to": 36,
+            "value": 0.0554336
+        },
+        {
+            "from": 36,
+            "to": 36,
+            "value": 0.0691118
+        },
+        {
+            "from": 122,
+            "to": 37,
+            "value": 0.0709153
+        },
+        {
+            "from": 38,
+            "to": 38,
+            "value": 0.0796017
+        },
+        {
+            "from": 80,
+            "to": 38,
+            "value": 0.0995744
+        },
+        {
+            "from": 2,
+            "to": 44,
+            "value": 0.0299548
+        },
+        {
+            "from": 8,
+            "to": 44,
+            "value": 0.0485868
+        },
+        {
+            "from": 22,
+            "to": 44,
+            "value": 0.055682
+        },
+        {
+            "from": 26,
+            "to": 44,
+            "value": 0.0758836
+        },
+        {
+            "from": 37,
+            "to": 44,
+            "value": 0.0282865
+        },
+        {
+            "from": 41,
+            "to": 44,
+            "value": 0.081239
+        },
+        {
+            "from": 44,
+            "to": 44,
+            "value": 0.115201
+        },
+        {
+            "from": 46,
+            "to": 44,
+            "value": 0.0568613
+        },
+        {
+            "from": 53,
+            "to": 44,
+            "value": 0.0756887
+        },
+        {
+            "from": 71,
+            "to": 45,
+            "value": 0.0866362
+        },
+        {
+            "from": 45,
+            "to": 46,
+            "value": 0.0618266
+        },
+        {
+            "from": 47,
+            "to": 48,
+            "value": 0.098765
+        },
+        {
+            "from": 49,
+            "to": 49,
+            "value": 0.0983781
+        },
+        {
+            "from": 20,
+            "to": 50,
+            "value": 0.0666771
+        },
+        {
+            "from": 50,
+            "to": 50,
+            "value": 0.0915506
+        },
+        {
+            "from": 78,
+            "to": 50,
+            "value": 0.098515
+        },
+        {
+            "from": 117,
+            "to": 50,
+            "value": 0.0945058
+        },
+        {
+            "from": 18,
+            "to": 51,
+            "value": 0.0447724
+        },
+        {
+            "from": 39,
+            "to": 51,
+            "value": 0.0874383
+        },
+        {
+            "from": 51,
+            "to": 51,
+            "value": 0.0833277
+        },
+        {
+            "from": 165,
+            "to": 51,
+            "value": 0.0425259
+        },
+        {
+            "from": 177,
+            "to": 51,
+            "value": 0.0704527
+        },
+        {
+            "from": 30,
+            "to": 52,
+            "value": 0.0443225
+        },
+        {
+            "from": 10,
+            "to": 54,
+            "value": 0.0188956
+        },
+        {
+            "from": 25,
+            "to": 54,
+            "value": 0.0360247
+        },
+        {
+            "from": 28,
+            "to": 54,
+            "value": 0.0388051
+        },
+        {
+            "from": 54,
+            "to": 54,
+            "value": 0.0895949
+        },
+        {
+            "from": 61,
+            "to": 54,
+            "value": 0.0684371
+        },
+        {
+            "from": 100,
+            "to": 56,
+            "value": 0.079745
+        },
+        {
+            "from": 27,
+            "to": 57,
+            "value": 0.0859864
+        },
+        {
+            "from": 122,
+            "to": 57,
+            "value": 0.0802101
+        },
+        {
+            "from": 153,
+            "to": 57,
+            "value": 0.0621184
+        },
+        {
+            "from": 185,
+            "to": 57,
+            "value": 0.0964103
+        },
+        {
+            "from": 37,
+            "to": 58,
+            "value": 0.0668354
+        },
+        {
+            "from": 81,
+            "to": 58,
+            "value": 0.0965492
+        },
+        {
+            "from": 103,
+            "to": 58,
+            "value": 0.0647439
+        },
+        {
+            "from": 107,
+            "to": 58,
+            "value": 0.0887688
+        },
+        {
+            "from": 131,
+            "to": 58,
+            "value": 0.0892288
+        },
+        {
+            "from": 63,
+            "to": 63,
+            "value": 0.1068
+        },
+        {
+            "from": 18,
+            "to": 65,
+            "value": 0.0475723
+        },
+        {
+            "from": 169,
+            "to": 66,
+            "value": 0.0716623
+        },
+        {
+            "from": 30,
+            "to": 68,
+            "value": 0.026674
+        },
+        {
+            "from": 8,
+            "to": 70,
+            "value": 0.0597487
+        },
+        {
+            "from": 35,
+            "to": 74,
+            "value": 0.0200333
+        },
+        {
+            "from": 116,
+            "to": 74,
+            "value": 0.0417216
+        },
+        {
+            "from": 3,
+            "to": 75,
+            "value": 0.0202032
+        },
+        {
+            "from": 6,
+            "to": 76,
+            "value": 0.07399
+        },
+        {
+            "from": 37,
+            "to": 77,
+            "value": 0.069168
+        },
+        {
+            "from": 95,
+            "to": 80,
+            "value": 0.0944372
+        },
+        {
+            "from": 30,
+            "to": 83,
+            "value": 0.0443224
+        },
+        {
+            "from": 84,
+            "to": 85,
+            "value": 0.0952066
+        },
+        {
+            "from": 26,
+            "to": 86,
+            "value": 0.0319676
+        },
+        {
+            "from": 170,
+            "to": 87,
+            "value": 0.0977693
+        },
+        {
+            "from": 75,
+            "to": 89,
+            "value": 0.0835971
+        },
+        {
+            "from": 138,
+            "to": 89,
+            "value": 0.0555224
+        },
+        {
+            "from": 11,
+            "to": 90,
+            "value": 0.0493658
+        },
+        {
+            "from": 29,
+            "to": 90,
+            "value": 0.0868938
+        },
+        {
+            "from": 44,
+            "to": 90,
+            "value": 0.0474241
+        },
+        {
+            "from": 45,
+            "to": 90,
+            "value": 0.0620305
+        },
+        {
+            "from": 58,
+            "to": 90,
+            "value": 0.0764255
+        },
+        {
+            "from": 101,
+            "to": 90,
+            "value": 0.0817981
+        },
+        {
+            "from": 56,
+            "to": 92,
+            "value": 0.0936831
+        },
+        {
+            "from": 62,
+            "to": 92,
+            "value": 0.0840185
+        },
+        {
+            "from": 92,
+            "to": 92,
+            "value": 0.0313092
+        },
+        {
+            "from": 71,
+            "to": 94,
+            "value": 0.0898037
+        },
+        {
+            "from": 35,
+            "to": 97,
+            "value": 0.0594635
+        },
+        {
+            "from": 100,
+            "to": 100,
+            "value": 0.0819375
+        },
+        {
+            "from": 86,
+            "to": 101,
+            "value": 0.0939309
+        },
+        {
+            "from": 104,
+            "to": 101,
+            "value": 0.0784956
+        },
+        {
+            "from": 26,
+            "to": 102,
+            "value": 0.0395508
+        },
+        {
+            "from": 58,
+            "to": 102,
+            "value": 0.178227
+        },
+        {
+            "from": 13,
+            "to": 103,
+            "value": 0.0733689
+        },
+        {
+            "from": 103,
+            "to": 103,
+            "value": 0.0331785
+        },
+        {
+            "from": 105,
+            "to": 106,
+            "value": 0.0959842
+        },
+        {
+            "from": 90,
+            "to": 107,
+            "value": 0.0352725
+        },
+        {
+            "from": 107,
+            "to": 107,
+            "value": 0.0895552
+        },
+        {
+            "from": 3,
+            "to": 108,
+            "value": 0.0204473
+        },
+        {
+            "from": 30,
+            "to": 110,
+            "value": 0.0443225
+        },
+        {
+            "from": 35,
+            "to": 110,
+            "value": 0.0594635
+        },
+        {
+            "from": 35,
+            "to": 112,
+            "value": 0.0594635
+        },
+        {
+            "from": 89,
+            "to": 115,
+            "value": 0.0835553
+        },
+        {
+            "from": 67,
+            "to": 116,
+            "value": 0.0863675
+        },
+        {
+            "from": 25,
+            "to": 117,
+            "value": 0.0413836
+        },
+        {
+            "from": 68,
+            "to": 120,
+            "value": 0.0384282
+        },
+        {
+            "from": 180,
+            "to": 120,
+            "value": 0.0840707
+        },
+        {
+            "from": 16,
+            "to": 123,
+            "value": 0.0909374
+        },
+        {
+            "from": 68,
+            "to": 124,
+            "value": 0.0903898
+        },
+        {
+            "from": 10,
+            "to": 128,
+            "value": 0.0321757
+        },
+        {
+            "from": 99,
+            "to": 134,
+            "value": 0.0959554
+        },
+        {
+            "from": 11,
+            "to": 139,
+            "value": 0.0531091
+        },
+        {
+            "from": 139,
+            "to": 139,
+            "value": 0.156994
+        },
+        {
+            "from": 70,
+            "to": 141,
+            "value": 0.0947674
+        },
+        {
+            "from": 3,
+            "to": 144,
+            "value": 0.0206169
+        },
+        {
+            "from": 26,
+            "to": 145,
+            "value": 0.0319809
+        },
+        {
+            "from": 35,
+            "to": 148,
+            "value": 0.0296541
+        },
+        {
+            "from": 3,
+            "to": 149,
+            "value": 0.0206856
+        },
+        {
+            "from": 9,
+            "to": 150,
+            "value": 0.0777071
+        },
+        {
+            "from": 92,
+            "to": 150,
+            "value": 0.0870579
+        },
+        {
+            "from": 108,
+            "to": 151,
+            "value": 0.0860366
+        },
+        {
+            "from": 152,
+            "to": 152,
+            "value": 0.0978516
+        },
+        {
+            "from": 11,
+            "to": 154,
+            "value": 0.0511304
+        },
+        {
+            "from": 122,
+            "to": 154,
+            "value": 0.080201
+        },
+        {
+            "from": 67,
+            "to": 155,
+            "value": 0.0863674
+        },
+        {
+            "from": 30,
+            "to": 158,
+            "value": 0.0443224
+        },
+        {
+            "from": 161,
+            "to": 161,
+            "value": 0.0460903
+        },
+        {
+            "from": 39,
+            "to": 163,
+            "value": 0.0899518
+        },
+        {
+            "from": 75,
+            "to": 164,
+            "value": 0.0843653
+        },
+        {
+            "from": 67,
+            "to": 167,
+            "value": 0.0863675
+        },
+        {
+            "from": 11,
+            "to": 179,
+            "value": 0.021754
+        },
+        {
+            "from": 179,
+            "to": 179,
+            "value": 0.0645393
+        }
+    ],
+    "nodes": [
+        {
+            "group": 0,
+            "id": 0,
+            "label": "745",
+            "title": "Bulbus cordis anomalies and anomalies of cardiac septal closure",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 1,
+            "label": "423",
+            "title": "Other diseases of pericardium",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 2,
+            "label": "410",
+            "title": "Acute myocardial infarction",
+            "value": 0.003315438
+        },
+        {
+            "group": 0,
+            "id": 3,
+            "label": "038",
+            "title": "Septicemia",
+            "value": 0.001525812
+        },
+        {
+            "group": 0,
+            "id": 4,
+            "label": "790",
+            "title": "Nonspecific findings on examination of blood",
+            "value": 0.000737627
+        },
+        {
+            "group": 0,
+            "id": 5,
+            "label": "560",
+            "title": "Intestinal obstruction without mention of hernia",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 6,
+            "label": "276",
+            "title": "Disorders of fluid electrolyte and acid-base balance",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 8,
+            "label": "507",
+            "title": "Pneumonitis due to solids and liquids",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 9,
+            "label": "780",
+            "title": "General symptoms",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 10,
+            "label": "441",
+            "title": "Aortic aneurysm and dissection",
+            "value": 0.000584985
+        },
+        {
+            "group": 0,
+            "id": 11,
+            "label": "996",
+            "title": "Complications peculiar to certain specified procedures",
+            "value": 0.001582301
+        },
+        {
+            "group": 0,
+            "id": 12,
+            "label": "852",
+            "title": "Subarachnoid subdural and extradural hemorrhage following injury",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 13,
+            "label": "396",
+            "title": "Diseases of mitral and aortic valves",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 14,
+            "label": "431",
+            "title": "Intracerebral hemorrhage",
+            "value": 0.000353077
+        },
+        {
+            "group": 1,
+            "id": 15,
+            "label": "042",
+            "title": "Human immunodeficiency virus [HIV] disease",
+            "value": 0.002147429
+        },
+        {
+            "group": 2,
+            "id": 16,
+            "label": "570",
+            "title": "Acute and subacute necrosis of liver",
+            "value": 0.00111831
+        },
+        {
+            "group": 0,
+            "id": 18,
+            "label": "571",
+            "title": "Chronic liver disease and cirrhosis",
+            "value": 0.00189512
+        },
+        {
+            "group": 0,
+            "id": 19,
+            "label": "198",
+            "title": "Secondary malignant neoplasm of other specified sites",
+            "value": 0.0007357209999999999
+        },
+        {
+            "group": 0,
+            "id": 20,
+            "label": "998",
+            "title": "Other complications of procedures not elsewhere classified",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 21,
+            "label": "426",
+            "title": "Conduction disorders",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 22,
+            "label": "486",
+            "title": "Pneumonia, organism unspecified",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 25,
+            "label": "414",
+            "title": "Other forms of chronic ischemic heart disease",
+            "value": 1.88667e-05
+        },
+        {
+            "group": 0,
+            "id": 26,
+            "label": "518",
+            "title": "Other diseases of lung",
+            "value": 0.000919519
+        },
+        {
+            "group": 0,
+            "id": 27,
+            "label": "415",
+            "title": "Acute pulmonary heart disease",
+            "value": 0.000559149
+        },
+        {
+            "group": 0,
+            "id": 28,
+            "label": "531",
+            "title": "Gastric ulcer",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 29,
+            "label": "730",
+            "title": "Osteomyelitis periostitis and other infections involving bone",
+            "value": 0.0011343599999999998
+        },
+        {
+            "group": 3,
+            "id": 30,
+            "label": "V30",
+            "title": "Single liveborn",
+            "value": 2e-08
+        },
+        {
+            "group": 1,
+            "id": 31,
+            "label": "777",
+            "title": "Perinatal disorders of digestive system",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 32,
+            "label": "493",
+            "title": "Asthma",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 33,
+            "label": "455",
+            "title": "Hemorrhoids",
+            "value": 2e-08
+        },
+        {
+            "group": 1,
+            "id": 34,
+            "label": "779",
+            "title": "Other and ill-defined conditions originating in the perinatal period",
+            "value": 2e-08
+        },
+        {
+            "group": 3,
+            "id": 35,
+            "label": "V31",
+            "title": "Twin birth mate liveborn",
+            "value": 2e-08
+        },
+        {
+            "group": 3,
+            "id": 36,
+            "label": "774",
+            "title": "Other perinatal jaundice",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 37,
+            "label": "427",
+            "title": "Cardiac dysrhythmias",
+            "value": 0.000377785
+        },
+        {
+            "group": 0,
+            "id": 38,
+            "label": "572",
+            "title": "Liver abscess and sequelae of chronic liver disease",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 39,
+            "label": "801",
+            "title": "Fracture of base of skull",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 41,
+            "label": "491",
+            "title": "Chronic bronchitis",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 42,
+            "label": "305",
+            "title": "Nondependent abuse of drugs",
+            "value": 0.0005597540000000001
+        },
+        {
+            "group": 0,
+            "id": 44,
+            "label": "428",
+            "title": "Heart failure",
+            "value": 0.00027501
+        },
+        {
+            "group": 0,
+            "id": 45,
+            "label": "578",
+            "title": "Gastrointestinal hemorrhage",
+            "value": 0.001187399
+        },
+        {
+            "group": 0,
+            "id": 46,
+            "label": "510",
+            "title": "Empyema",
+            "value": 2e-08
+        },
+        {
+            "group": 4,
+            "id": 47,
+            "label": "512",
+            "title": "Pneumothorax and air leak",
+            "value": 2e-08
+        },
+        {
+            "group": 4,
+            "id": 48,
+            "label": "459",
+            "title": "Other disorders of circulatory system",
+            "value": 2e-08
+        },
+        {
+            "group": 1,
+            "id": 49,
+            "label": "223",
+            "title": "Benign neoplasm of kidney and other urinary organs",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 50,
+            "label": "997",
+            "title": "Complications affecting specified body system not elsewhere classified",
+            "value": 0.00018027899999999999
+        },
+        {
+            "group": 0,
+            "id": 51,
+            "label": "250",
+            "title": "Diabetes mellitus",
+            "value": 0.003530127
+        },
+        {
+            "group": 3,
+            "id": 52,
+            "label": "751",
+            "title": "Other congenital anomalies of digestive system",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 53,
+            "label": "189",
+            "title": "Malignant neoplasm of kidney and other and unspecified urinary organs",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 54,
+            "label": "424",
+            "title": "Other diseases of endocardium",
+            "value": 0.0007421140000000001
+        },
+        {
+            "group": 0,
+            "id": 55,
+            "label": "289",
+            "title": "Other diseases of blood and blood-forming organs",
+            "value": 0.000180264
+        },
+        {
+            "group": 0,
+            "id": 56,
+            "label": "430",
+            "title": "Subarachnoid hemorrhage",
+            "value": 0.00018470999999999998
+        },
+        {
+            "group": 0,
+            "id": 57,
+            "label": "482",
+            "title": "Other bacterial pneumonia",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 58,
+            "label": "584",
+            "title": "Acute kidney failure",
+            "value": 0.000131275
+        },
+        {
+            "group": 0,
+            "id": 61,
+            "label": "433",
+            "title": "Occlusion and stenosis of precerebral arteries",
+            "value": 0.00020801199999999999
+        },
+        {
+            "group": 0,
+            "id": 62,
+            "label": "851",
+            "title": "Cerebral laceration and contusion",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 63,
+            "label": "162",
+            "title": "Malignant neoplasm of trachea bronchus and lung",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 64,
+            "label": "970",
+            "title": "Poisoning by central nervous system stimulants",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 65,
+            "label": "456",
+            "title": "Varicose veins of other sites",
+            "value": 0.000180676
+        },
+        {
+            "group": 5,
+            "id": 66,
+            "label": "453",
+            "title": "Other venous embolism and thrombosis",
+            "value": 2e-08
+        },
+        {
+            "group": 6,
+            "id": 67,
+            "label": "V34",
+            "title": "Other multiple birth (three or more) mates all liveborn",
+            "value": 2e-08
+        },
+        {
+            "group": 3,
+            "id": 68,
+            "label": "765",
+            "title": "Disorders relating to short gestation and low birthweight",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 69,
+            "label": "854",
+            "title": "Intracranial injury of other and unspecified nature",
+            "value": 0.000561292
+        },
+        {
+            "group": 0,
+            "id": 70,
+            "label": "965",
+            "title": "Poisoning by analgesics antipyretics and antirheumatics",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 71,
+            "label": "557",
+            "title": "Vascular insufficiency of intestine",
+            "value": 0.000351305
+        },
+        {
+            "group": 0,
+            "id": 73,
+            "label": "458",
+            "title": "Hypotension",
+            "value": 0.000181817
+        },
+        {
+            "group": 6,
+            "id": 74,
+            "label": "770",
+            "title": "Other respiratory conditions of fetus and newborn",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 75,
+            "label": "576",
+            "title": "Other disorders of biliary tract",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 76,
+            "label": "535",
+            "title": "Gastritis and duodenitis",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 77,
+            "label": "963",
+            "title": "Poisoning by primarily systemic agents",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 78,
+            "label": "151",
+            "title": "Malignant neoplasm of stomach",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 80,
+            "label": "860",
+            "title": "Traumatic pneumothorax and hemothorax",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 81,
+            "label": "599",
+            "title": "Other disorders of urethra and urinary tract",
+            "value": 2e-08
+        },
+        {
+            "group": 3,
+            "id": 83,
+            "label": "759",
+            "title": "Other and unspecified congenital anomalies",
+            "value": 2e-08
+        },
+        {
+            "group": 7,
+            "id": 84,
+            "label": "149",
+            "title": "Malignant neoplasm of other and ill-defined sites within the lip oral cavity and pharynx",
+            "value": 2e-08
+        },
+        {
+            "group": 7,
+            "id": 85,
+            "label": "466",
+            "title": "Acute bronchitis and bronchiolitis",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 86,
+            "label": "574",
+            "title": "Cholelithiasis",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 87,
+            "label": "785",
+            "title": "Symptoms involving cardiovascular system",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 89,
+            "label": "434",
+            "title": "Occlusion of cerebral arteries",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 90,
+            "label": "569",
+            "title": "Other disorders of intestine",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 92,
+            "label": "432",
+            "title": "Other and unspecified intracranial hemorrhage",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 94,
+            "label": "567",
+            "title": "Peritonitis and retroperitoneal infections",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 95,
+            "label": "865",
+            "title": "Injury to spleen",
+            "value": 2e-08
+        },
+        {
+            "group": 3,
+            "id": 97,
+            "label": "778",
+            "title": "Conditions involving the integument and temperature regulation of fetus and newborn",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 99,
+            "label": "805",
+            "title": "Fracture of vertebral column without mention of spinal cord injury",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 100,
+            "label": "437",
+            "title": "Other and ill-defined cerebrovascular disease",
+            "value": 0.000564479
+        },
+        {
+            "group": 0,
+            "id": 101,
+            "label": "577",
+            "title": "Diseases of pancreas",
+            "value": 0.000180969
+        },
+        {
+            "group": 0,
+            "id": 102,
+            "label": "398",
+            "title": "Other rheumatic heart disease",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 103,
+            "label": "715",
+            "title": "Osteoarthrosis and allied disorders",
+            "value": 0.000331344
+        },
+        {
+            "group": 0,
+            "id": 104,
+            "label": "188",
+            "title": "Malignant neoplasm of bladder",
+            "value": 0.000192037
+        },
+        {
+            "group": 8,
+            "id": 105,
+            "label": "853",
+            "title": "Other and unspecified intracranial hemorrhage following injury",
+            "value": 2e-08
+        },
+        {
+            "group": 8,
+            "id": 106,
+            "label": "292",
+            "title": "Drug-induced mental disorders",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 107,
+            "label": "537",
+            "title": "Other disorders of stomach and duodenum",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 108,
+            "label": "421",
+            "title": "Acute and subacute endocarditis",
+            "value": 0.0007376889999999999
+        },
+        {
+            "group": 3,
+            "id": 110,
+            "label": "747",
+            "title": "Other congenital anomalies of circulatory system",
+            "value": 0.000558704
+        },
+        {
+            "group": 3,
+            "id": 112,
+            "label": "769",
+            "title": "Respiratory distress syndrome in newborn",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 115,
+            "label": "995",
+            "title": "Certain adverse effects not elsewhere classified",
+            "value": 2e-08
+        },
+        {
+            "group": 6,
+            "id": 116,
+            "label": "753",
+            "title": "Congenital anomalies of urinary system",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 117,
+            "label": "425",
+            "title": "Cardiomyopathy",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 119,
+            "label": "054",
+            "title": "Herpes simplex",
+            "value": 0.00018101399999999999
+        },
+        {
+            "group": 3,
+            "id": 120,
+            "label": "530",
+            "title": "Diseases of esophagus",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 122,
+            "label": "806",
+            "title": "Fracture of vertebral column with spinal cord injury",
+            "value": 0.002208902
+        },
+        {
+            "group": 2,
+            "id": 123,
+            "label": "868",
+            "title": "Injury to other intra-abdominal organs",
+            "value": 2e-08
+        },
+        {
+            "group": 3,
+            "id": 124,
+            "label": "362",
+            "title": "Other retinal disorders",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 128,
+            "label": "440",
+            "title": "Atherosclerosis",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 131,
+            "label": "722",
+            "title": "Intervertebral disc disorders",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 134,
+            "label": "958",
+            "title": "Certain early complications of trauma",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 138,
+            "label": "429",
+            "title": "Ill-defined descriptions and complications of heart disease",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 139,
+            "label": "519",
+            "title": "Other diseases of respiratory system",
+            "value": 0.000384016
+        },
+        {
+            "group": 0,
+            "id": 141,
+            "label": "296",
+            "title": "Episodic mood disorders",
+            "value": 2e-08
+        },
+        {
+            "group": 1,
+            "id": 144,
+            "label": "532",
+            "title": "Duodenal ulcer",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 145,
+            "label": "496",
+            "title": "Chronic airway obstruction, not elsewhere classified",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 146,
+            "label": "575",
+            "title": "Other disorders of gallbladder",
+            "value": 2e-08
+        },
+        {
+            "group": 3,
+            "id": 148,
+            "label": "772",
+            "title": "Fetal and neonatal hemorrhage",
+            "value": 2e-08
+        },
+        {
+            "group": 1,
+            "id": 149,
+            "label": "592",
+            "title": "Calculus of kidney and ureter",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 150,
+            "label": "438",
+            "title": "Late effects of cerebrovascular disease",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 151,
+            "label": "511",
+            "title": "Pleurisy",
+            "value": 2e-08
+        },
+        {
+            "group": 1,
+            "id": 152,
+            "label": "991",
+            "title": "Effects of reduced temperature",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 153,
+            "label": "515",
+            "title": "Postinflammatory pulmonary fibrosis",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 154,
+            "label": "008",
+            "title": "Intestinal infections due to other organisms",
+            "value": 2e-08
+        },
+        {
+            "group": 6,
+            "id": 155,
+            "label": "465",
+            "title": "Acute upper respiratory infections of multiple or unspecified sites",
+            "value": 2e-08
+        },
+        {
+            "group": 3,
+            "id": 158,
+            "label": "271",
+            "title": "Disorders of carbohydrate transport and metabolism",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 159,
+            "label": "284",
+            "title": "Aplastic anemia and other bone marrow failure syndromes",
+            "value": 2e-08
+        },
+        {
+            "group": 1,
+            "id": 161,
+            "label": "197",
+            "title": "Secondary malignant neoplasm of respiratory and digestive systems",
+            "value": 0.000646842
+        },
+        {
+            "group": 0,
+            "id": 163,
+            "label": "117",
+            "title": "Other mycoses",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 164,
+            "label": "556",
+            "title": "Ulcerative enterocolitis",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 165,
+            "label": "348",
+            "title": "Other conditions of brain",
+            "value": 0.000180264
+        },
+        {
+            "group": 6,
+            "id": 167,
+            "label": "742",
+            "title": "Other congenital anomalies of nervous system",
+            "value": 2e-08
+        },
+        {
+            "group": 5,
+            "id": 169,
+            "label": "952",
+            "title": "Spinal cord injury without evidence of spinal bone injury",
+            "value": 0.000180264
+        },
+        {
+            "group": 0,
+            "id": 170,
+            "label": "820",
+            "title": "Fracture of neck of femur",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 175,
+            "label": "287",
+            "title": "Purpura and other hemorrhagic conditions",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 177,
+            "label": "533",
+            "title": "Peptic ulcer site unspecified",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 179,
+            "label": "277",
+            "title": "Other and unspecified disorders of metabolism",
+            "value": 2e-08
+        },
+        {
+            "group": 3,
+            "id": 180,
+            "label": "552",
+            "title": "Other hernia of abdominal cavity with obstruction but without mention of gangrene",
+            "value": 2e-08
+        },
+        {
+            "group": 0,
+            "id": 184,
+            "label": "935",
+            "title": "Foreign body in mouth esophagus and stomach",
+            "value": 0.000191899
+        },
+        {
+            "group": 0,
+            "id": 185,
+            "label": "862",
+            "title": "Injury to other and unspecified intrathoracic organs",
+            "value": 2e-08
+        }
+    ]
+}
