@@ -1,0 +1,88 @@
+<HTML>
+
+<head>
+<TITLE>Publication</TITLE>
+<style>
+th, td
+{
+    padding: 5px;
+}
+</style>
+</head>
+
+<BODY bgcolor="#E6E6FA">
+<H3>Experiments</H3>
+<H4>DeepMind internship project: Pinata - agent gets a reward if it touches the heaviest object</H4>
+<p>This is an extended work of "Which is heavier?" experiment from <a href="https://openreview.net/forum?id=r1nTpv9eg&noteId=r1nTpv9eg" target=_blank>Learning to Perform Physics Experiments via Deep Reinforcement Learning (Denil et al. ICLR 2017)</a>.<br>Object densities are shown at the bottom right.</p>
+<table>
+  <tr>
+    <th><iframe width="448" height="252" src="https://www.youtube.com/embed/gs7mWG2sjUU?ecver=1" frameborder="0" allowfullscreen></iframe></th>
+    <th><iframe width="448" height="252" src="https://www.youtube.com/embed/vqYzBsuqYPs?ecver=1" frameborder="0" allowfullscreen></iframe></th>
+  </tr>
+  <tr>
+    <td>Agent trained with 15-second episodes.</td>
+    <td>Agent trained with 50-second episodes<br> (time ticks 3 times faster, hence the video length 16 seconds)</td>
+  </tr>
+</table>
+<!--
+<iframe width="448" height="252" src="https://www.youtube.com/embed/gs7mWG2sjUU?ecver=1" frameborder="0" allowfullscreen></iframe><br>
+<p>Agent trained with 15-second episodes.<p>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/vqYzBsuqYPs?ecver=1" frameborder="0" allowfullscreen></iframe><br>
+<p>Agent trained with 50-second episodes (time ticks 3 times faster, hence the video length 16 seconds).</p>
+-->
+
+<H4>GRAM Visualization</H4>
+<a href="./scatterplot/dpm8_glove.html" target=_blank>2D plot of disease representations learned from domain knowledge, initialized with GloVe</a><br>
+<a href="./scatterplot/dpm8.html" target=_blank>2D plot of disease representations learned from domain knowledge</a><br>
+<a href="./scatterplot/dpm8_fake.html" target=_blank>2D plot of disease representations learned from fake domain knowledge</a><br>
+<a href="./scatterplot/gru_glove.html" target=_blank>2D plot of disease representations learned by GRU, initialized with GloVe vectors</a><br>
+<a href="./scatterplot/gru.html" target=_blank>2D plot of disease representations learned by GRU, randomly initialized</a><br>
+<a href="./scatterplot/glove.html" target=_blank>2D plot of disease representations learned by GloVe</a><br>
+<a href="./scatterplot/skipgram.html" target=_blank>2D plot of disease representations learned by Skip-gram</a><br>
+
+<H4>Healthcare Concept Representation Learned by Med2Vec</H4>
+<a href="./resources/codeEmb.npy" target=_blank>codeEmb.npy: Embedding matrix of medical concepts (Python Numpy).</a><br>
+<a href="./resources/int2str.p" target=_blank>int2str.p: Mapping between integer code to string code (Python dictionary).</a><br>
+<a href="./resources/str2desc.p" target=_blank>str2desc.p: Mapping between string code to descriptions (Python dictionary).</a><br>
+<p> The embedding matrix <i>codeEmb.npy</i> has the shape 27523 by 200. Each row is a specific medical concept (diagnosis code, medication code or procedure code) represented by a 200 dimensional vector. <i>int2str.p</i> is a Python dictionary that maps the dimension number of the embedding matrix to the string code of the medical concept. For example the first dimension of codeEmb.npy can be mapped to a string code "D_401.9". The first letter of the string code could be D, R, or P which respectively stand for diagnosis, medication and procedure. <i>str2desc.p</i> is a Python dictionary that maps the string code to the actual description of the medical concept. For example, the string code "D_401.9" is mapped to the string description "Unspecified essential hypertension".</p>
+
+<H4>Healthcare Concept Representation Learning Visualization</H4>
+<a href="./scatterplot/nnsg_h200e49_category10.html" target=_blank>2D plot of disease representations learned from non-negative Skip-gram</a><br>
+
+<!--
+<H3>GRAM Sutter HF Visualization</H3>
+<a href="./scatterplot/sutter_hf/hf8_glove.html">2D plot of disease representations learned from domain knowledge, initialized with GloVe</a><br>
+<a href="./scatterplot/sutter_hf/hf8.html">2D plot of disease representations learned from domain knowledge</a><br>
+<a href="./scatterplot/sutter_hf/hf8_fake.html">2D plot of disease representations learned from fake domain knowledge</a><br>
+<a href="./scatterplot/sutter_hf/gru_glove.html">2D plot of disease representations learned by GRU, initialized with GloVe vectors</a><br>
+<a href="./scatterplot/sutter_hf/gru.html">2D plot of disease representations learned by GRU, randomly initialized</a><br>
+<a href="./scatterplot/sutter_hf/glove.html">2D plot of disease representations learned by GloVe</a><br>
+
+<H3>GRAM MIMIC DPM Visualization</H3>
+<a href="./scatterplot/mimic_dpm/mimic8_glove.html">2D plot of disease representations learned from domain knowledge, initialized with GloVe</a><br>
+<a href="./scatterplot/mimic_dpm/mimic8.html">2D plot of disease representations learned from domain knowledge</a><br>
+<a href="./scatterplot/mimic_dpm/mimic8_fake.html">2D plot of disease representations learned from fake domain knowledge</a><br>
+<a href="./scatterplot/mimic_dpm/gru_glove.html">2D plot of disease representations learned by GRU, initialized with GloVe vectors</a><br>
+<a href="./scatterplot/mimic_dpm/gru.html">2D plot of disease representations learned by GRU, randomly initialized</a><br>
+<a href="./scatterplot/mimic_dpm/glove.html">2D plot of disease representations learned by GloVe</a><br>
+-->
+
+<H4>Disease network analysis from ICDM 2015</H4>
+<!-- <a href="mimic07.html">MIMIC2 Disease Network (Broad Version)</a><br> -->
+<!-- <a href="mimic07_weight.html">MIMIC2 Disease Network (Compact Version)</a><br> -->
+<!-- <a href="mimic07_age25_weight70_static.html">MIMIC2 Disease Network (Compact Version for a Age 25, Weight 70kg)</a><br> -->
+<!-- <a href="mimic07_age65_weight120_static.html">MIMIC2 Disease Network (Compact Version for a Age 65, Weight 120kg)</a><br> -->
+<!-- <a href="nofeature_cluster.html">MIMIC2 Disease Network (Compact Version, Clustered)</a><br> -->
+<!-- <a href="force_cluster.html">MIMIC2 Disease Network (Compact Version for a Age 25, Weight 70kg, Clustered)</a><br> -->
+<!-- <a href="force_cluster2.html">MIMIC2 Disease Network (Compact Version for a Age 65, Weight 120kg, Clustered)</a><br> -->
+<!-- <a href="vis_nofeature.html">MIMIC2 Disease Network (General Network)</a><br> -->
+<!-- <a href="vis_age25_weight65.html">MIMIC2 Disease Network (Personalized Network, Age 25, Weight 65kg)</a><br> -->
+<!-- <a href="vis_age65_weight115.html">MIMIC2 Disease Network (Personalized Network, Age 65, Weight 115kg)</a><br> -->
+<!-- <a href="vis_age65_weight135.html">MIMIC2 Disease Network (Personalized Network, Age 65, Weight 135kg)</a><br> -->
+<!-- <a href="vis_age25_weight65.long_label.html">MIMIC2 Disease Network (Age 25, Weight 65kg, Long Label)</a><br> -->
+<!-- <a href="a25_w65_dynamic.html">MIMIC2 Disease Network (Personalized Network, Age 25, Weight 65kg, Dynamic)</a><br> -->
+<!-- <a href="a65_w135_all.html">MIMIC2 Disease Network (Personalized Network, Age 65, Weight 135kg, All)</a><br> -->
+<!-- <a href="baseline.html">Baseline (Connect all past diseases to the current disease)</a><br> -->
+<a href="full_diagnoses.html" target=_blank>Disease network constructed from MIMIC II dataset</a><br>
+</BODY>
+</HTML>
